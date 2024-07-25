@@ -1,6 +1,6 @@
 # Pedestrian Detection with IR, RGB, and LiDAR fusion
-![image](https://github.com/user-attachments/assets/2af9dbfd-b318-42af-b132-0675dd2ddb4a)
-![image](https://github.com/user-attachments/assets/007cf6e6-a2c5-4aac-aa0d-448711e5b3bf)
+![image](https://github.com/user-attachments/assets/692ffafb-e9bd-400f-a4fc-224509a45140) ![image](https://github.com/user-attachments/assets/18f2be33-9a8a-49cd-ab7f-f6108f226d5f)
+
 
 ## Project Overview
 
